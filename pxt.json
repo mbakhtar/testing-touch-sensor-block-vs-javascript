@@ -10,7 +10,8 @@
     "files": [
         "main.ts",
         "README.md",
-        "touch-sensor-plants-pollinators-tutorial.ts"
+        "touch-sensor-plants-pollinators-tutorial.ts",
+        "custom.md"
     ],
     "testFiles": [
         "test.ts"
